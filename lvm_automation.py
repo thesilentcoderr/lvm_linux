@@ -295,5 +295,5 @@ if __name__ == "__main__" :
 
 		except Exception as e :
 			print(TRED, 'Enter valid options only !!!')
-			continue
+			continu
 	print(TYELLOW,'Execution done!!!!',TWHITE)
